@@ -1,2 +1,2 @@
 # bvciitk.github.io
-CLub Website
+Club Website
