@@ -75,8 +75,8 @@ arrPresent.push({
 }, {
     name: "Abhishek Panchal",
     pic: "images/Alumini/abhishekpanchal.jpg",
-    who1: "PhD Student",
-    who2: "MSE, NUS",
+    who1: "Ph.D. Student, MSE",
+    who2: "NUS, Singapore",
     who3: "BTech, MSE(2015-19)",
     about: "Abhishek Panchal did his BTech from IIT Kanpur(2015-19) in the department of Materials Science and Engineering. He got connected to the teachings of Bhagavad Gita in 3rd year through the programs and trips organized by Prof. Laxmindhar Behera. He was a part of the organizing team for 2018 Janmashtami festival at IIT Kanpur. He is currently pursuing PhD at NUS in area of solid state battery devices and also mentoring others to take advantage of this invaluable science of Bhagavad Gita. ",
     id: ""
@@ -91,8 +91,8 @@ arrPresent.push({
 }, {
     name: "Pranav Kulkarni",
     pic: "images/Alumini/pranavkulkarni.jpeg",
-    who1: "MSc, ME",
-    who2: "Aalto University,Finland",
+    who1: "M.Sc. Student, ME",
+    who2: "Aalto University, Finland",
     who3: "BTech, ME(2015-19)",
     about: "Pranav Kulkarni did his B-Tech in the department of Mechanical Engineering at IIT Kanpur from 2015-19 and is currently pursuing his MSc in Mechanical Engineering from Aalto University in Finland. He got connected to the teachings of Bhagavad Gita during his third year of undergraduate studies at IIT Kanpur. He is actively preaching the message of Bhagavad Gita in Marathi and serving at ISKCON Helsinki.",
     id: ""
@@ -171,8 +171,8 @@ arrPresent.push({
 }, {
     name: "Swarandeep Sahoo",
     pic: "images/Alumini/swarandeepsahoo.jpg",
-    who1: "Assistant Prof., Applied Geophysics",
-    who2: "IIT(ISM) Dhanbad",
+    who1: "Assistant Professor ",
+    who2: "Applied Geophysics, IIT Dhanbad",
     who3: "B.Tech-M.Tech Dual, AE(2007-12)",
     about: "Swarandeep Sahoo obtained his B.Tech and M.Tech from IIT Kanpur and then completed his PhD from IISc Bangalore. He is currently an Assistant Professor in Dept. of Applied Geophysics, IIT(ISM) Dhanbad. He got connected to the teachings of Bhagvad Gita during his stay at IIT Kanpur.",
     id: ""
@@ -211,12 +211,12 @@ arrPresent.push({
 }, {
     name: "Shashank Srivastava",
     pic: "images/Alumini/shashanksrivastava.jpg",
-    who1: "Senior Asst. Professor",
-    who2: "IGNOU, New Delhi",
+    who1: "Assistant Professor",
+    who2: "School of Engineering & Technology, IGNOU",
     who3: "MTech, AE(2007-2009)",
-    about: "Did masters in aerospace engg. from IIT Kanpur. Worked at DRDO for research and development of life support system for fighter pilots. Completed Phd from IIT Delhi and currently working as senior Asst Prof. at IGNOU New Delhi. ",
+    about: "Did masters in aerospace engg. from IIT Kanpur. Worked at DRDO for research and development of life support system for fighter pilots. Completed Phd from IIT Delhi and currently working as senior Asst Prof. in School of Engineering & Technology at Indira Gandhi National Open University, New Delhi. ",
     id: ""
-}, {
+//}, {
     //name: "Piyush Sehgal",
     //pic: "images/Alumini/piyushseghal.jpg",
     //who1: "Chief Coach and Co-founder",
