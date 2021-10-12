@@ -10,7 +10,7 @@ var m_contents_present = document.getElementById("model_contents_present");
 // it will automatically generate it
 arrPresent.push({
     name: "Ujjwal Khandelwal",
-    pic: "images/Alumini/ujjwalkhandelwal.png",
+    pic: "images/Alumini/ujjwalkhandelwal.jpg",
     who1: "Software Engineer",
     who2: "Accenture, Japan",
     who3: "BTech-MTech, ME(2015-20)",
@@ -146,7 +146,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Shrikant Awate",
-    pic: "images/Alumini/shrikantawate.png",
+    pic: "images/Alumini/shrikantawate.jpg",
     who1: "Senior Software Developer",
     who2: "SAP Pune",
     who3: "MTech, CSE(2012-14)",
