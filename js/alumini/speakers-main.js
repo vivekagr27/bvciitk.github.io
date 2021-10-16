@@ -289,6 +289,7 @@ var ssSmoothScroll = function() {
     });
 
 };
+ssSmoothScroll();
 function addspeakerNew(x) {
     //creates an model element to be appended to the m_content class=============================
 
