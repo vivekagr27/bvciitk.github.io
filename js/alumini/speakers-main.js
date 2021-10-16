@@ -277,7 +277,7 @@ var ssSmoothScroll = function() {
 
         $('html, body').stop().animate({
             'scrollTop': $target.offset().top
-        }, cfg.scrollDuration, 'swing').promise().done(function() {
+        }, 800, 'swing').promise().done(function() {
 
             // check if menu is open
             if ($('body').hasClass('menu-is-open')) {
