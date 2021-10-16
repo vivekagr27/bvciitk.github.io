@@ -33,7 +33,7 @@
 
         $WIN.on('load', function() {
 
-            // force page scroll position to top at page refresh
+                        // force page scroll position to top at page refresh
             /*$('html, body').animate({ scrollTop: 0 }, 'normal');*/
 
             // will first fade out the loading animation 
@@ -429,32 +429,32 @@
 
 })(jQuery);
 
-var camp = document.getElementById('but');
-var c = 0;
+// var camp = document.getElementById('but');
+// var c = 0;
 
-function fun() {
-    if (c % 2 == 1) {
-        camp.style.opacity = "100";
-        setTimeout(function() { camp.style.opacity = "0"; }, 3300);
-        setTimeout(function() {
-            camp.innerText = 'Register for E-Summit' +
-                "'19 ";
-            var icon = document.createElement("i");
-            icon.setAttribute("class", "fa fa-share");
-            but.appendChild(icon);
-        }, 3600);
-        c++;
+// function fun() {
+//     if (c % 2 == 1) {
+//         camp.style.opacity = "100";
+//         setTimeout(function() { camp.style.opacity = "0"; }, 3300);
+//         setTimeout(function() {
+//             camp.innerText = 'Register for E-Summit' +
+//                 "'19 ";
+//             var icon = document.createElement("i");
+//             icon.setAttribute("class", "fa fa-share");
+//             but.appendChild(icon);
+//         }, 3600);
+//         c++;
 
-    } else {
-        camp.style.opacity = "100";
-        setTimeout(function() { camp.style.opacity = "0"; }, 3300);
-        setTimeout(function() {
-            camp.innerText = 'Myriad Of Mavericks';
-            var icon = document.createElement("i");
-            icon.setAttribute("class", "fa fa-share");
-            but.appendChild(icon);
-        }, 3600);
-        c++;
+//     } else {
+//         camp.style.opacity = "100";
+//         setTimeout(function() { camp.style.opacity = "0"; }, 3300);
+//         setTimeout(function() {
+//             camp.innerText = 'Myriad Of Mavericks';
+//             var icon = document.createElement("i");
+//             icon.setAttribute("class", "fa fa-share");
+//             but.appendChild(icon);
+//         }, 3600);
+//         c++;
 
-    }
-}
+//     }
+// }
