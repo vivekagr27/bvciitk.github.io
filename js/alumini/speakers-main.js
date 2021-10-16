@@ -266,6 +266,29 @@ for (var i = 0; i < arrPresent.length; i++) {
 
 //function will add a speaker by using
 // the data from the Xth position of the array
+var ssSmoothScroll = function() {
+
+    $('.smoothscroll').on('click', function(e) {
+        var target = this.hash,
+            $target = $(target);
+
+        e.preventDefault();
+        e.stopPropagation();
+
+        $('html, body').stop().animate({
+            'scrollTop': $target.offset().top
+        }, cfg.scrollDuration, 'swing').promise().done(function() {
+
+            // check if menu is open
+            if ($('body').hasClass('menu-is-open')) {
+                $('#header-menu-trigger').trigger('click');
+            }
+
+            window.location.hash = target;
+        });
+    });
+
+};
 function addspeakerNew(x) {
     //creates an model element to be appended to the m_content class=============================
 
