@@ -495,5 +495,5 @@ var ssSmoothScroll = function() {
             window.location.hash = target;
         });
     });
+};
 ssSmoothScroll();
-    };
