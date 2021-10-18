@@ -554,7 +554,7 @@ td:last-child {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #0f1215;
+    background: rgb(59, 58, 58);;
     z-index: 800;
     height: 100%;
     width: 100%;
@@ -1593,13 +1593,14 @@ header .header-logo a {
 }
 
 #menu-nav-wrap .nav-list li a {
-    color: rgba(88, 3, 3, 0.25);
+    color: rgba(240, 87, 87, 0.65);
+    font-weight: bold;
     display: block;
 }
 
 #menu-nav-wrap .nav-list li a:hover,
 #menu-nav-wrap .nav-list li a:focus {
-    color: white;
+    color: rgb(165, 42, 42);
 }
 
 #menu-nav-wrap .header-social-list {
