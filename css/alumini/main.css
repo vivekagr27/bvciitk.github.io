@@ -46,7 +46,7 @@ body {
 }
 
 body {
-    background: #0f1215;
+    background: white;
     font: 16px/30px "merriweather-regular", serif;
     font-weight: normal;
     color: #8e8e8e;
@@ -606,7 +606,7 @@ hr {
     font: 15px/30px "raleway-heavy", sans-serif;
     text-transform: uppercase;
     letter-spacing: 2.5px;
-    color: #ffffff;
+    color: black;
     margin-bottom: 30px;
     margin-top: 18px;
 }
@@ -675,7 +675,7 @@ header {
 }
 
 header.opaque {
-    background: black;
+    background: #fdc501;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -730,7 +730,7 @@ header .header-social li {
 }
 
 header .header-social li a {
-    color: #ffffff;
+    color: black;
 }
 
 header .header-social li a:hover {
@@ -814,7 +814,7 @@ ul#nav li a {
     line-height: 38px;
     text-decoration: none;
     text-align: left;
-    color: #ffffff;
+    color: black;
     position: relative;
     -moz-transition: color 0.2s ease-in-out;
     -o-transition: color 0.2s ease-in-out;
@@ -2539,7 +2539,7 @@ footer {
     padding-top: 60px;
     padding-bottom: 24px;
     position: relative;
-    color: rgba(255, 255, 255, 0.7);
+    color: black;
 }
 
 footer .content {
@@ -2548,7 +2548,7 @@ footer .content {
 
 footer a,
 footer a:visited {
-    color: #a3a4a6;
+    color: black;
 }
 
 footer a:hover,
@@ -3148,7 +3148,7 @@ footer .social-links li:first-child {
     margin: 0 0 0 0;
     font-size: 20px;
     /* margin-top: 10px; */
-    color: #cfe604;
+    color: black;
 }
 
 #all-speakers {

@@ -90,11 +90,11 @@ ul#nav li a {
 }
 
 .is-sticky .mainmenu-area {
-    background: #292929;
+    background: #fdc501;
 }
 
 ul#nav li a {
-    color: #ffffff;
+    color: black;
 }
 
 ul#nav li li a {
@@ -103,7 +103,7 @@ ul#nav li li a {
 
 ul#nav li a:hover,
 ul#nav li.active > a {
-    color: orange;
+    color: black;
 }
 
 /*-------------------------

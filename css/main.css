@@ -64,7 +64,7 @@ body {
 }
 
 body {
-    background: #111111;
+    background: white;
     font-family: "librebaskerville-regular", serif;
     font-size: 1.6rem;
     line-height: 3rem;
@@ -1317,7 +1317,7 @@ input::-moz-focus-inner {
     display: inline-block;
     height: 1px;
     width: 200px;
-    background-color: rgba(242, 242, 242, 0.1);
+    background-color: black;
     text-align: center;
 }
 
@@ -1468,11 +1468,11 @@ header .header-logo a {
 }
 
 #header-menu-trigger.opaque {
-    background-color: #000000;
+    background-color: #f1e972;
 }
 
 #header-menu-trigger.opaque .header-menu-text {
-    background-color: #000000;
+    background-color: #ee7c7c;
 }
 
 #header-menu-trigger:hover,
@@ -1530,8 +1530,8 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 
 #menu-nav-wrap {
-    background: #0c0c0c;
-    color: rgba(255, 255, 255, 0.25);
+    background: #fdc501;
+    color: rgb(226, 75, 75);
     font-size: 1.5rem;
     line-height: 1.6;
     padding: 3.6rem 3rem;
@@ -1567,7 +1567,7 @@ header .header-logo a {
 }
 
 #menu-nav-wrap h3 {
-    color: white;
+    color: rgb(27, 23, 23);
     font-family: "montserrat-regular", sans-serif;
     font-size: 2rem;
     line-height: 1.5;
@@ -1593,7 +1593,7 @@ header .header-logo a {
 }
 
 #menu-nav-wrap .nav-list li a {
-    color: rgba(255, 255, 255, 0.25);
+    color: rgba(88, 3, 3, 0.25);
     display: block;
 }
 
@@ -2286,19 +2286,19 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
 
 #portfolio .intro-wrap {
     padding: 15rem 0 21rem;
-    background: #111111;
+    background: #ffffff;
 }
 
 #portfolio .section-intro h3 {
-    color: rgba(242, 242, 242, 0.5);
+    color: brown;
 }
 
 #portfolio .section-intro h1 {
-    color: #ffffff;
+    color: black;
 }
 
 #portfolio .section-intro .lead {
-    color: rgba(242, 242, 242, 0.4);
+    color: brown;
 }
 
 #portfolio .portfolio-content {
@@ -2854,7 +2854,7 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
  * ------------------------------------------------------------------- */
 
 #contact {
-    background-color: #111111;
+    background-color: white;
     /* background-image: url(../images/contact-bg-image.JPG); */
     background-image: url(../images/bg12.jpeg);
     );
@@ -3199,7 +3199,7 @@ footer {
     margin: 0 0 5.4rem 0;
     padding: 0;
     font-size: 1.5rem;
-    color: rgba(255, 255, 255, 0.4);
+    color: brown;
 }
 
 footer a,
@@ -3217,7 +3217,7 @@ footer .row {
 }
 
 footer h4.h05 {
-    color: #ffffff;
+    color: black;
     position: relative;
     padding-bottom: 4.2rem;
     margin-bottom: 3.6rem;
@@ -3228,7 +3228,7 @@ footer h4.h05::after {
     content: "";
     width: 100px;
     height: 1px;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: black;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -3255,7 +3255,7 @@ footer h4.h05::after {
 
 .footer-main ul a,
 .footer-main ul a:visited {
-    color: rgba(255, 255, 255, 0.4);
+    color: brown;
 }
 
 .footer-main ul a:hover,
