@@ -18,7 +18,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Ujjwal Khandelwal",
-    pic: "images/Alumini/ujjwalkhandelwal.png",
+    pic: "images/Alumini/ujjwalkhandelwal.jpg",
     who1: "Software Engineer",
     who2: "Accenture, Japan",
     who3: "BTech-MTech, ME(2015-20)",
@@ -30,7 +30,7 @@ arrPresent.push({
     who1: "M.Sc. Student",
     who2: "Mechatronics, SDU, Denmark",
     who3: "MTech(2019-2021)",
-    about: "Madhav Rijal completed his MTech from IIT-KANPUR in 2021. He came in connection with BVC during his first semester. He was attracted to krishna consciousness due to scientific discourse on Bhagawat Gita presented by Dr. Laila Purushottam DAS. He often used to tell that food prepared at Bhaktivedānta club is entirety different from Normal food. Our prasadam did various magic for him. He appreciated Bhaktivedānta club for bringing positive change in his life as he often quotes ' I was living like animal before coming in the association of club members' . ",
+    about: "Madhav Rijal completed his MTech from IIT-KANPUR in 2021. He came in connection with BVC during his first semester. He was attracted to krishna consciousness due to scientific discourse on Bhagawat Gita presented by Dr. Lila Purushottam DAS. He often used to tell that food prepared at Bhaktivedānta club is entirety different from Normal food. Our prasadam did various magic for him. He appreciated Bhaktivedānta club for bringing positive change in his life as he often quotes ' I was living like animal before coming in the association of club members' . ",
     id: ""
 }, {
     name: "Jitendra Soni",
@@ -98,7 +98,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Abhishek Panchal",
-    pic: "images/Alumini/abhishekpanchal.jpg",
+    pic: "images/Alumini/Abhishek-Panchal.jpg",
     who1: "Ph.D. Student",
     who2: "MSE, NUS, Singapore",
     who3: "BTech, MSE(2015-19)",
@@ -126,7 +126,7 @@ arrPresent.push({
     who1: "Student",
     who2: "",
     who3: "BS, MTH(2013-17)",
-    about: "He did his Bachelor's degree in Maths and Scientific Computing at IIT Kanpur 2013-17.",
+    about: "During his stay in IIT Kanpur he used to attend every session taken by sir and ready to serve in all circumstances specially calling students personally to program, he is a very good kirtaniya, used to sing different different sweet kirtan melodies, he used to play badminton with sir as well. His mood of preaching is extraordinary , he brought so many wonderful devotees who got inspired and today following footsteps of sir in his personal sanga.Currently preparing for IAS examination.",
     id: ""
 }, {
     name: "Rahul Kothari ",
@@ -178,7 +178,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Dr. Suvendu Samanta",
-    pic: "images/Alumini/chahatupreti.jpg",
+    pic: "images/Alumini/suvendusamanta-- (1).jpg",
     who1: "Assistant Professor",
     who2: "Department Of EE, IIT Kanpur",
     who3: "M.tech, EE(2013-15)",
@@ -362,7 +362,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Chandan Sharma",
-    pic: "images/Alumini/Picturf13706 - Chandan Sharma.JPG",
+    pic: "images/Alumini/chandansharma.jpg",
     who1: "Assistant Engineer",
     who2: "PHED, West Bengal",
     who3: "M Tech, CE(2014-16) not completed thesis.",
@@ -370,7 +370,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Vipin Agarwal",
-    pic: "images/Alumini/profile_Vipin - Vipin Agarwal.jpg",
+    pic: "images/Alumini/Vipinagarwalfinal.jpg",
     who1: "Postdoctoral Researcher",
     who2: "ME, UMich, USA",
     who3: "BTech-MTech (2006-2011)",
@@ -378,7 +378,7 @@ arrPresent.push({
     id: ""
 }, {
     name: "Sanjoy Kumar Parida",
-    pic: "images/Alumini/16346254895948295551268586332365 - Sanjoy Parida.jpg",
+    pic: "images/Alumini/sanjoyparida.jpg",
     who1: "Associate Professor,",
     who2: "Dept. of EE, IIT PATNA",
     who3: "PhD, EE (2004-2009)",
@@ -386,11 +386,59 @@ arrPresent.push({
     id: ""
 }, {
     name: "Ajay Kumar Yadav",
-    pic: "images/Alumini/16346254895948295551268586332365 - Sanjoy Parida.jpg",
+    pic: "images/Alumini/ajay_yadav.jpg",
     who1: "Ph.D. Student",
     who2: "Dept. of Maths, BHU",
     who3: "M.Sc. (2-year), Department of mathematics & statistics (2017-19)",
     about: "Mr. Ajay Kumar Yadav did his B.Sc. in department of mathematics at Banaras Hindu University from 2014-17 and then completed M.Sc. in department of mathematics & statistics, IIT Kanpur during 2017-19. Currently he is doing Ph.D. in mathematics from Institute of Science, BHU since 2020.",
+    id: ""
+}, {
+    name: "Raghuveer Pr. Nagar ",
+    pic: "images/Alumini/Raghuveerprasadnagar.jpg",
+    who1: "Dy. Chief Engineer",
+    who2: "NPCIL",
+    who3: "MTech, CSE (2006-08)",
+    about: "Raghuveer Prasad Nagar did his BE in Computer Science & Engineering from MBM Engineering College, Jodhpur.  Later, he came to IIT Kanpur for MTech in Computer Science & Engineering. During his stay at IITK, he got connected to Bhakti Vedant Club (BVC) and learned teaching of lord Chaitanya Mahaprabhu & about Hare Krishna Movement. Now, he is in Hare Krishna Movement from last 12 years.",
+    id: ""
+}, {
+    name: "Devendra Upadhyay",
+    pic: "images/Alumini/Devendra_Upadhya.jpg",
+    who1: "Senior Process Engineer",
+    who2: "Shell",
+    who3: "B.Tech-M.Tech (Dual Degree 2003-08)",
+    about: "Devendra Upadhyay did his B.Tech- M.Tech (dual degree) in Chemical Engineering at IIT Kanpur from 2003-2008. He received Academic Excellence Award and General Proficiency Gold Medal for his outstanding academic performance at IIT Kanpur. He co-authored three international publications in reputed journals which was published during his M.Tech. thesis.Devendra came in contact with Dr. Laxmidhar Behera (Prof. of Electrical Engineering, IITK) during his first year of undergraduate days and got opportunities to learn Krishna Consciousness along-with other senior devotee friends in the guidance of Prof. Behera. He  was coordinator for 2007 Krishna Janmashtami celebration (Very first Janmashtami at the Land of Sri Sri Radha Madhav Temple, ISKCON Kanpur), which was attended by more than 10000 people from Kanpur city and IIT Kanpur community. Being member of BVC, he got opportunities to join/organize several Krishna Conscious workshops, retreats and most importantly could make several devotee friends for life.In 2008, Devendra joined Shell and currently working as a Senior Process Engineer. He continues to practice Krishna Consciousness/teachings of Bhagavad Gita learnt from Prof. Behera.",
+    id: ""
+}, {
+    name: "Premnath Dalai",
+    pic: "images/Alumini/premnathdalai.jpg",
+    who1: "Senior Manager",
+    who2: "Evalueserve",
+    who3: "MSc, Statistics (2010-12)",
+    about: "Premnath was a Y10 student pursuing M.SC in Statistics. In 2011, he came in a friendly contact with a devotee at IIT Kanpur. And from a hardcore atheist personality he became a strong believer of the Vedic philosophy and Krishna consciousness culture. Under fortunate guidance of Prof. Laxmidhar Behera, he humbly submitted to the practice of Krishna consciousness. He was actively involved in multiple festivals, activities conducted by Bhaktivedanta club. Currently he is in corporate job.",
+    id: ""
+}, {
+    name: "Ajay Gudla",
+    pic: "images/Alumini/Gadhadhar Gauranga Das_reduced.jpg",
+    who1: "Full Time Preacher",
+    who2: "Iskcon Dehradun",
+    who3: "M.Tech, EE",
+    about: "He did his B.Tech at ANITS Visakhapatnam from 2009-13 and completed his M.Tech in power systems under the guidance of Dr. Saikat Chakraborty from 2013-15 at IITK. He connected to BVC club during janmastami 2013. He was mainly inspired by sir's lectures and with the support of mataji and BVC members like venkat pr, vipul pr, Srikant pr, Sudheer pr, mehar pr, sarvatma pr, the journey in IITK was sweet. He came to IIT with an aspiration of becoming IAS officer, but this journey of 1.5 years in BVC changed his life and helped him to take right decision about future. After that he served in BGIS gurukul for 5 years as a chemistry teacher and did some ashram services also. In 2020, he went to ISKCON Dehradun and right now serving there as Brahmachari.",
+    id: ""
+}, {
+    name: "Jaideep Shingari",
+    pic: "images/Alumini/jaideeppr-.jpg",
+    who1: "Team Lead",
+    who2: "Telus International",
+    who3: "Research Associate in Electrical Dept (2002 - 2003)",
+    about: "Jaideep Shingari completed his BTech in Electronics and Communication from Punjab in 2001. And he was Research Associate in IIT, Kanpur for one and half years in 2002 - 2003. He is currently working as Software Professional in Telus International, a Canadian Telecom Software MNC in Noida.In 2002 while in IIT, Kanpur, he got introduced to ISKCON and the teachings of Bhagavad Gita under the guidance of HG Lilapurshotam Prabhu Ji. After joining his first job in Noida in 2003, he stayed in different BACEs in Delhi NCR. There he was involved in preaching activities in Delhi under the guidance of HG Ajanma Krishna Prabhu (ISKCON, East of Kailash). These days he does service of Still Photography in ISKCON, East of Kailash Temple Yatras.",
+    id: ""
+}, {
+    name: "Venkata Ratnam",
+    pic: "images/Alumini/Pic - Vakacharla Venkata Ratnam jn.jpg",
+    who1: "",
+    who2: "",
+    who3: "Visiting Researcher, EE (Jan-Sep, 2020)",
+    about: "Dr. Venkata Ratnam Vakacharla has completed his M.Tech from IIT(BHU), Varanasi and Ph.D. from Concordia University, Montreal, Canada, both in Power Electronics (Electrical Engineering). Currently he is serving a postdoctoral appointment with university of Windsor, Canada. During his masters, he has the opportunity to connect to teachings of Bhagavad-Gita and further strengthen the faith upon meeting students of Dr. Lila Purushottam Pr during his Ph.D. He met Dr. Lila Purushottam Pr in IIT Kanpur as visiting researcher and started practicing devotional service seriously. He desires to further practice and help Lila Purushottam Pr spreading the knowledge of Bhagavad-Gita world wide.",
     id: ""
 });
 
