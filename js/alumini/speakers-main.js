@@ -520,6 +520,14 @@ arrPresent.push({
     who3: "MBA ",
     about: "Mayank Singh aka Madhusudan Mukund Das joined sir's Sanga in Feb 2012. He joined ISKCON immediately after he completed MBA from IITK. He served ISKCON Gurukula for 5 years till 2018. But after he joined ISKCON Dehradun yatra. From September 2020 onwards, he was awarded service for ISKCON Ranchi Yatra. He is also Coordinator of LGLG,  online initiative run under sir's guidance.  ",
     id: ""
+},{
+    name: "Karthik Murthy",
+    pic: "images/Alumini/Karthik Murthy.jpeg",
+    who1: "Ph.D Student.",
+    who2: "ME, Cornell University",
+    who3: "M.Tech. (2016 - 18)",
+    about: "Karthik Murthy completed his bachelor’s degree in Mechanical engineering from B.M.S. College of Engineering, Bangalore in 2016. Post which, he joined I.I.T. Kanpur for his master’s degree in Aerospace engineering. During his stay at I.I.T. Kanpur, he was introduced to the introductory lecture series on Bhagavad Gita by Prof. Laxmidhar Behera, and he found the introductory lectures to be fascinating and valuable for his life. Intrigued by the introductory classes, he later went on to become a part of B.V.C. and its activities during his stay at I.I.T. Kanpur between 2016 - 18. After completing his degree at I.I.T. Kanpur in 2018, he joined Siemens as a postgraduate engineer trainee at Siemens Power and Gas, Gurgaon, India. While at Gurgaon, he stayed in BACE, sector-25, Gurgaon, and was actively involved in the corporate preaching activities with other members of BACE at sector-25, Gurgaon. He is currently pursuing his Ph.D. in Mechanical Engineering from Cornell University, and he has been in connection with the members of B.V.C. for the last five years. He finds himself fortunate enough to be a part of B.V.C. and its activities, and he always cherishes his stay at I.I.T. Kanpur with B.V.C. members.",
+    id: ""
 });
 
 
