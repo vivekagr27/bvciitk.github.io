@@ -624,6 +624,94 @@ arrPresent.push({
     who3: "Research Associate, EE, 2012-15",
     about: "He Completed B-Tech from Dr. A. P. J. Abdul Kalam Technical University, Lucknow in 2012. Joined BHAKTIVEDANTA CLUB, IITK as an active member in 2012 (Janmashtami Day). Worked as a Research Associate at IITK under Prof. Laxmidhar Behra to work in the field of Sleep Quality Improvement using Cognitive Behavioural Therapy (CBT). Played Lead role in many festival celebrations at IITK including Janmashtami'14 & 15. Taught Lalita and Vishaka also at Sir's house. Getting more responsibilities on Saturday. Programme (specially purchasing and Poori making sewa). Regular touch with old devotee friends of Bhakti Vedanta Club, IITK. Currently serving as an Overall Coordinator of Srivasangan Youth Preaching Centre under ISKCON HYDERABAD. Apart from that engaged in various activities like DYS (Discover Your Self) Course Coordinator, Team member of ‘Value Education Contest’ Based on Bhagwat Gita and Gita Premier League (GPL) organized by ISKCON Hyd, Active member of Preaching and Book Marathon Team ISKCON Hyd and Temple events coordinator.",
     id: ""
+},{
+    name: "Seeta Ram Meena",
+    pic: "images/Alumini/seetaram meena.jpg",
+    who1: "Civil Engineer",
+    who2: "DSSSB",
+    who3: "MTech, CE, 2016-2018",
+    about: "Seeta Ram Meena did his M.Tech in department of Civil Engineering at IITK from 2016-2018. He is currently a Civil Engineer at Delhi Subordinate Services Selection Board(DSSSB). He got connected to the teachings of Bhagavad during the first year of his M. Tech. ",
+    id: ""
+},{
+    name: "Gobinda Chandra Sethi",
+    pic: "images/Alumini/govindachandrasethi.jpg",
+    who1: "Engineer",
+    who2: "ENGINEERS INDIA LTD., Delhi",
+    who3: "M-Tech, EE, (2004-2006)",
+    about: "Mr. Gobinda Chandra Sethi did his BE from IGIT Sanarang a govt College from 1999-2003 under BPUT Odisha then came to IIT Kanpur for M-Tech in Power & Control(Electrical) from 2004-2006. He is presently working as an Engineer in Engineers India Ltd. New Delhi. He got connected to the teachings of Bhagvat Gita & Srimad Bhagavatam by the inspiration and guidance by Prof. Laxmidhar Behera at IIT Kanpur.",
+    id: ""
+},{
+    name: "Vikas Agarwal",
+    pic: "images/Alumini/vikas_agarwal__.jpg",
+    who1: "Lead Engineer",
+    who2: "R&D, Mahindra & Mahindra Ltd.",
+    who3: "B.Tech. (2003-07), ME",
+    about: "Vikas Agarwal did his B.Tech. in the Department of Mechanical Engineering at IIT Kanpur during 2003-07. He joined Bajaj Auto Ltd., R&D through campus placement. Currently, he is working with Mahindra & Mahindra Ltd. R&D for Car Engine design and is located at Chennai. He met Dr. Laxmidhar Behera for the first time for a Bhagavad Gita evening class program. Dr. Behera’s explanation of Bhagavad Gita and other Indian Scriptures were a blend of spirituality and science. It attracted Vikas towards listening to the subject matter under guidance of Dr. Behera, who has profound insight on the subject and tremendous life experience. Vikas became an active member of BVC at IIT Kanpur. He participated in club activities and organized BVC events at campus. He feels fortunate to have made friendship for life with BVC members. He was further joined by his younger brother Vipin Agarwal & Cousin Virendra Agarwal (both from undergraduate Y6 batch) at BVC. He was happy to see them being nurtured by sir and other senior members with love and care. He advocates every student to join BVC and learn the principles of Indian spirituality in a conducive and supportive environment, built on the foundation of an authentic lineage (Sampradaya). BVC experience would help a student connect with the essence of old age Indian tradition without losing sight of the future.",
+    id: ""
+},{
+    name: "Dr. Biswanath Swain",
+    pic: "images/Alumini/biswanathswain-----.jpg",
+    who1: "Associate Professor [Ethics]",
+    who2: "Dept. of HSS, IIM Indore",
+    who3: "PhD, HSS (2004-2011)",
+    about: "Dr. Biswanath Swain earned his PhD in Ethics [Philosophy] from Department of Humanities and Social Sciences at IIT Kanpur from 2004-2011. He is currently an Associate Professor in Ethics at Indian Institute of Management [IIM] Indore. He teaches courses such as Ethics in Business Management (EPGP and EFPM), Seminar Course on Marketing Ethics (FPM), Ethics and CSR (PGP), Marketing Ethics (PGP), Stakeholder Management (PGP), Values, Ethics & Governance (PGP), Contemporary Moral Issues (IPM), Ethics and Society (IPM), Media Ethics (IPM), and Philosophy: A Tool of Sustainability (IPM) at IIM Indore. His research primarily focusses on the issues in Core Ethics, Marketing Ethics, Ethics and Corporate Social Responsibility (CSR), Organizational Ethics, and Ethics & Business Sustainability, Philosophy of Action and Agency. He has been an ardent follower of HG Lila Purushottam Prabhu. He used to take part and involve himself as a volunteer in most of the celebrations and programmes organzied by the Bhaktivedanta Club, IIT Kanpur. He used to take part in the programmes held at the home of HG Lila Purushottam Prabhu. He used to participate in all the activities organized by ISKCON, Kanpur. It has been a great journey so far by His mercy. Hare Krishna...",
+    id: ""
+},{
+    name: "Mananjay Kumar Verma",
+    pic: "images/Alumini/Mananjay-Kumar-Verma.jpg",
+    who1: "Ex-Scientist",
+    who2: "ISRO",
+    who3: "M.Tech. (2016-18)",
+    about: "He enjoyed the association of BVC team members,  especially Dr. Laxmidhar Behera's realizations in spiritual subjects during M.Tech. in Industrial and Management Engineering from 2016-18.",
+    id: ""
+},{
+    name: "Kalpavriksha Das",
+    pic: "images/Alumini/kalpvavrikshadas---.jpg",
+    who1: "Full Time Preacher",
+    who2: "ISKCON Noida",
+    who3: "M.E(2009- 11)",
+    about: "Kalpavriksha Das aka Krishnan Annadhurai did his b.tech in civil engg from Dr M.G.R. education al research institute , chennai. Then he came to do M. Tech in Geotechnical Engineering in IIT Kanpur. There He got introduced to Krishna Consciousness by prof Laxmidhar Behera through weekly Saturday program. It opened the doors for understanding Indian spirituality in such detailed and convincing manner.  Regular discourse on Bhagvad Gita and other deeper subjects were taken their. He got a new insight in to Indian Spirituality. For the past ten years he is actively participating in preaching the Vedic Knowledge to various people in Noida",
+    id: ""
+},{
+    name: "Vishnu Raj Shukla",
+    pic: "images/Alumini/vishnuraj_shukla.jpg",
+    who1: "Ph. D. Student",
+    who2: "MSE, UCF, Florida",
+    who3: "BTech, MSE (2010-2014)",
+    about: "Vishnu Raj Shukla did his B. Tech in Materials Science and Engineering at IIT Kanpur from 2010-2014. He was introduced to BVC at IIT Kanpur in his first year. He was a regular visitor in Saturday programs and volunteered during festivities like Janmashtami. He could receive the mercy of Dr. L. Behera and fellow devotees who introduced him to devotional service to Krishna. Currently, he is a Ph. D. student in Materials Science and Engineering department at University of Central Florida working on microelectronic solder used in advanced packages.",
+    id: ""
+},{
+    name: "Chandan Kumar Behera",
+    pic: "images/Alumini/Chandan Behera.jpg",
+    who1: "Postdoctoral Associate",
+    who2: "Yale University, USA",
+    who3: "M.Des(2012-2014)",
+    about: "Dr.Chandan Kumar Behera is currently a postdoctoral associate at Yale university USA. He completed his PhD  in cognitive and computational neuroscience from Ulster University, UK in collaboration with Oxford University, UK  from 2017-2020. Rephrasing certain concepts of spiritualism in the language of science intrigues him to lead a scientific cum spiritual life. He did his Masters in design (Intelligent Systems Design) at IIT kanpur. Professor L.Behera was one of his supervisors. He got connected with BVC during his stay at IIT Kanpur. He says, “I could understand the effect of sankirtana, because of the BVC association and still cherish the time spent in BVC ”.",
+    id: ""
+},{
+    name: "Amit Sharma",
+    pic: "images/Alumini/Amit_Sharma.jpg",
+    who1: "Software Engineer",
+    who2: "Paytm",
+    who3: "BT-MT, CSE (2010-15)",
+    about: "Amit Sharma was a student in the BT-MT, CSE (5 yr program) at IIT Kanpur. He first came in contact with Prof. Laxmidhara Behera in 2010 and Bhagwatam discourses by sir were very enlivening for him. Also, He very much enjoyed the spiritual trips to Vrindavan, Mayapur etc. Currently, he is working with Paytm asa software engineer.",
+    id: ""
+},{
+    name: "Dr. Man Mohan Garg",
+    pic: "images/Alumini/MAn_MOHAN GARG.png",
+    who1: "Assistant Professor",
+    who2: "EE, MNIT Jaipur",
+    who3: "Post-Doc, EE, (2016-18)",
+    about: "Dr. Man Mohan Garg is currently serving in the Department of Electrical Engineering, Malaviya National Institute of Technology (MNIT) Jaipur as an assistant professor. Prior to joining MNIT Jaipur, he has worked as an Assistant Professor in the Department of Electrical Engineering, National Institute of Technology (NIT) Rourkela, India. He has received the B.E. degree in Electrical Engineering from the M.B.M. Engineering College, Jodhpur, India, in 2008, and the M.Tech. and Ph.D. degrees in Electrical Engineering, Indian Institute of Technology (IIT) Roorkee, India, in 2010 and 2016, respectively. He completed his post-doctoral under mentorship of Prof. Laxmidhar Behera with the Department of Electrical Engineering, IIT Kanpur, India. His current research interest includes design, modeling, and control of power electronic converters, grid integration of distributed renewable energy sources, dc microgrid, electric vehicles, cyber-physical energy systems, etc. His research work has been published in the IEEE TRANSACTIONS and other reputed international journals, book chapters and conferences. He has been an editorial board member in several reputed journals and conferences. He is IEEE Senior Member. He is connected to teachings of Bhagavad Gita since 2005 which helped him a lot in his academic career.",
+    id: ""
+},{
+    name: "Dr. Susovan Mandal  ",
+    pic: "images/Alumini/susovan_mandal_square.jpeg",
+    who1: "Assistant Professor",
+    who2: "Chem, Govt college, Bengal",
+    who3: "Ph.D., Chemistry, (2007-13) ",
+    about: "Susovan Mandal did his M.Sc. in chemistry from University of Calcutta in the year 2006. He then pursuede Ph.D. in Chemistry during 2007-13. He is currently an assistant professor in govt. general degree college in West Benga. He experienced a good spiritual association at BVC with Sir & great devotees.",
+    id: ""
 });
 
 
