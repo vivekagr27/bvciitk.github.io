@@ -818,14 +818,11 @@ function filterApp(filter=0){
         paras[0].parentNode.removeChild(paras[0]);
     }
 
-    if(filter==0){
+    if(filter==0 || filter.target.value == "all"){
         for (var i = 0; i < arrPresent.length; i++) {
             arrPresent[i].id = "sp" + i.toString();
             addspeakerNew(i);
         }
-    }
-    else if(filter.target.value=="choose"){
-        alert("Choose Year of Graduation of Alumni");
     }
     else{
         var fil =  parseInt(filter.target.value, 10);
