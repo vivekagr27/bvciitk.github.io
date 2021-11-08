@@ -129,16 +129,38 @@
 
     </header>
     <!-- end header -->
-    <section id="all-speakers-present">
+   <section id="all-speakers-present">
         <div class="md-overlay"></div>
         <div class="row section-head">
 
             <div class="twelve columns">
 
-                <h1>Bhakti Vedanta Club, IITK Alumni
+                <h1>Bhakti Vedanta Club, IITK Alumnus
                     <span>.</span>
                 </h1>
-
+                <select name="filter" id="filterbox" onchange="filterApp(event)">
+                    <option value="choose">Select Year</option>
+                    <option value="2002" >2002</option>
+                    <option value="2003" >2003</option>
+                    <option value="2004" >2004</option>
+                    <option value="2005" >2005</option>
+                    <option value="2006" >2006</option>
+                    <option value="2007" >2007</option>
+                    <option value="2008" >2008</option>
+                    <option value="2009" >2009</option>
+                    <option value="2010" >2010</option>
+                    <option value="2011" >2011</option>
+                    <option value="2012" >2012</option>
+                    <option value="2013" >2013</option>
+                    <option value="2014" >2014</option>
+                    <option value="2015" >2015</option>
+                    <option value="2016" >2016</option>
+                    <option value="2017" >2017</option>
+                    <option value="2018" >2018</option>
+                    <option value="2019" >2019</option>
+                    <option value="2020" >2020</option>
+                    <option value="2021" >2021</option>
+                </select>
                 <hr />
                 <p>
                 </p>
@@ -147,7 +169,6 @@
         <!--Javascript will add model of members here-------------------------------->
         <div id="model_contents_present"></div>
     </section>
-
 
     <!-- <section id="all-speakers">
         <div class="md-overlay"></div>
