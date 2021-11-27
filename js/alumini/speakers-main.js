@@ -209,7 +209,7 @@ arrPresent.push({
     about: "Dr. Suvendu Samanta received the B.E. degree from IIEST Shibpur (formerly Bengal Engineering and Science University), Howrah, India, in 2009, the M.Tech. degree from Indian Institute of Technology Kanpur, India, in 2013, and the Ph.D. degree from Concordia University, Montreal, QC, Canada, in 2018, all in Electrical Engineering. He was with Coal India Ltd. as operation and maintenance engineer of the Electrical and Mechanical section from 2009-2011. From 2014 to 2016, He worked as a Research Engineer in the ECE department, National University of Singapore, Singapore.He also worked as a Postdoctoral Fellow in FREEDM Research Center, North Carolina State University, Raleigh, NC, USA from 2018-2020. He received the prestigious Canadian Government General's Gold Medal award for his Ph.D. Thesis",
     id: "",
     gradyr: 2015
-}, {
+}, /*{
     name: "Sarvatma Shyam Das",
     pic: "images/Alumini/sarvatmadas.jpg",
     who1: "Full Time Preacher",
@@ -218,7 +218,7 @@ arrPresent.push({
     about: "Sarvatma Shyam Das aka Sunil Kumar Reddy was born & brought up in Andhra Pradesh. He did his B-Tech from NIT Raipur in Electrical Engineering from 2009-2013. He joined IIT Kanpur and pursued M-Tech in EE  department from 2013-2015. In his 1st year of M-Tech he attended Bhagavad Gita Lecture series conducted by Prof. Laxmidhar Behera. He was very much impressed by professor's presentation of Bhagavad Gita and got connected with few of the volunteer students there. He continued to regularly attend the Gita classes and became a serious practitioner. He worked under Prof. Laxmidhar Behera during his M-Tech and later joined Petroleum Institute Abu Dhabi, UAE. He continued there for nearly 2 years and later joined Learn Gita Live Gita Project and ISKCON Dehradun project. Currently he is serving full time in ISKCON Ranchi.",
     id: "",
     gradyr: 2015
-}, {
+}, */ {
     name: "Shrikant Awate",
     pic: "images/Alumini/shrikantawate.png",
     who1: "Senior Software Developer",
@@ -245,7 +245,7 @@ arrPresent.push({
     about: "Dr. Akhaya Kumar Nayak is a faculty member in the area of Humanities and Social Sciences (Sociology). He has earned his doctorate degree from Indian Institute of Technology Kanpur in 2013. His teaching interests include Sociological Perspectives, Indian Society and Culture, Ethics and Corporate Social Responsibility, Leadership Insights from Vedic Scriptures (especially Bhagavad Gita), Contemporary Social Issues, Population and Society, Industrial Sociology, Essentials of Human Values and Sociological Theories. His research interest lies in Sociology of Social Movement and Sociology of Development. He has been an active member of the Bhaktivedanta club and took part in all the activities very enthusiastically. He is a very humble and generous person",
     id: "",
     gradyr: 2013
-}, {
+},/* {
     name: "Sudheer Jillelamoodi",
     pic: "images/Alumini/sarvagyagaurangadas.jpg",
     who1: "Full Time Preacher",
@@ -254,7 +254,7 @@ arrPresent.push({
     about: "Mr. Sudheer Jillelamoodi aka Sarvagya Gauranga Das did his MTech in dept. of EE IIT Kanpur from 2012-14.  He worked for Electrohms Pvt. Ltd, Bangalore.  While pursing this masters he came in contact with professor Dr. Laxmidhar Behera and understood the importance of spiritual life and teachings of Bhagavad Gita. In 2016 he started working in Vrindaranyam BGIS campus, Vrindavan for the development of Goshala and agriculture. He also worked for Bhaktivedanta skill development and center, Vrindavan and played a key role in training various skill courses to 500 unemployed youth of the villages in Vrindavan. Since last year he has joined as full time preacher in ISKCON Ranchi and helping in many preaching activities all across Jharkhand. He is also a mentor in LearnGitaLiveGita website in teaching Bhagavad Gita Correspondence Course",
     id: "",
     gradyr: 2014
-}, {
+},*/ {
     name: "Swarandeep Sahoo",
     pic: "images/Alumini/swarandeepsahoo.jpg",
     who1: "Assistant Professor",
@@ -263,7 +263,7 @@ arrPresent.push({
     about: "Swarandeep Sahoo obtained his B.Tech and M.Tech from IIT Kanpur and then completed his PhD from IISc Bangalore. He is currently an Assistant Professor in Dept. of Applied Geophysics, IIT(ISM) Dhanbad. He got connected to the teachings of Bhagvad Gita during his stay at IIT Kanpur.",
     id: "",
     gradyr: 2012
-}, {
+}, /*{
     name: "Chandrasekhar",
     pic: "images/Alumini/chaitanyadas.jpg",
     who1: "Full time Preacher",
@@ -272,7 +272,7 @@ arrPresent.push({
     about: "I am Chaitanya Rasasekhara Dasa aka Chandrasekhar did B.Tech from SNIST, Hyderabad during 2005 - 09. I then pursued M. Tech from IIT Kanpur during 2010-12 where I got to learn the sublime teachings of Bhagavad Gita, chanting of Hare Krishna Mahamantra in the sweet memorable association of Prof. Lila Purusottam sir and family and other members from BVC. My association with BVC was the turning point in my life and got connected to ISKCON and in their association I got the most glorious opportunities of visiting to different Holy places like Vrindavan, Mayapur,  Jagannath Puri Dhams which are the Best of the Holy places that I hardly had any idea before! By the blessings of Prof. Lila Purusottam sir and BVC family, I got to regularly chant Hare Krishna Mahamantra and be in the associatiom of devotees. Then I got to work in Bengaluru for Cisco Networks company where I had worked for 1 yr, 4 months. Meanwhile I got a good association of devotees in Bengaluru and by the blessings of Sir, I finally joined ISKCON Sri Narasimha Giridhari Mandir in 2014 as a full time volunteer. Presently, I am serving in ISKCON Raichur center,  Karnataka under the leadership of HG Varadha Krishna prabhu, Temple President. ",
     id: "",
     gradyr: 2012
-}, {
+}, */{
     name: "Santosh Kumar",
     pic: "images/Alumini/santoshkumar.jpg",
     who1: "Senior Engineer",
@@ -388,7 +388,7 @@ arrPresent.push({
     about: "Ram Bahadur Singh is B-Tech from IIT Kanpur from 2000-2004 batch in department of Mechanical Engineering. He was connected to Bhaktivedanta Club, IIT Kanpur from his initial years and organized large scale programs such as Janmashtami witnessing footfall of thousands. He worked as an Engineer of Gas Turbine at Bharat Heavy Electricals Limited from 2004-2006 and than from 2006 to present he has been working in Seimens taking different roles such as Senior Enginer, Manager and Lead Engineer in Gas Turbine Designs. Presently he is head of Gas Turbine Combustion Design at Seimens, India. Besides this he is very social and politically active and Mentoring Bhaktivedanta Gramin Vikas Shivir since 2005 for holistic development of villages",
     id: "",
     gradyr: 2004
-}, {
+},/* {
     name: "Harikeshwar Kushwaha",
     pic: "images/Alumini/harikeshwarkushwaha.jpg",
     who1: "Full Time Preacher ",
@@ -397,7 +397,7 @@ arrPresent.push({
     about: "Harikeshwar Kushwaha is B-Tech (Department of Electrical Engineering, 1999-2003) from IIT Kanpur. He came in contact with Bhaktivedanta Club, IIT Kanpur in first year itself and has been practicing the path of Devotional Service since his days in IIT Kanpur. He has worked for Goldman Sachs in USA and Singapore for almost 9 years . He later left his lucrative job to serve full time to The Bhaktivedanta Gurukula and International School(BGIS) - a boarding school for boys as Principal for five years. Currently he runs a centre called ISKCON PEACE (Prayag Eternal Abode of Culture & Education) in Prayagraj where many people come to learn the art of devotional service to Krishna and make their lives joyful with spiritual culture and education",
     id: "",
     gradyr: 2003
-}, {
+},*/ {
     name: "Meher Preetam",
     pic: "images/profile/Dr. Meher Preetam Korukonda.jpg",
     who1: "Postdoctoral researcher",
@@ -469,7 +469,7 @@ arrPresent.push({
     about: "Premnath was a Y10 student pursuing M.SC in Statistics. In 2011, he came in a friendly contact with a devotee at IIT Kanpur. And from a hardcore atheist personality he became a strong believer of the Vedic philosophy and Krishna consciousness culture. Under fortunate guidance of Prof. Laxmidhar Behera, he humbly submitted to the practice of Krishna consciousness. He was actively involved in multiple festivals, activities conducted by Bhaktivedanta club. Currently he is in corporate job.",
     id: "",
     gradyr: 2012
-}, {
+},/* {
     name: "Ajay Gudla",
     pic: "images/Alumini/Gadhadhar Gauranga Das_reduced.jpg",
     who1: "Full Time Preacher",
@@ -478,7 +478,7 @@ arrPresent.push({
     about: "Ajay Gudla aka Gadhadhar Gauranga Das did his B.Tech at ANITS Visakhapatnam from 2009-13 and completed his M.Tech in power systems under the guidance of Dr. Saikat Chakraborty from 2013-15 at IITK. He connected to BVC club during janmastami 2013. He was mainly inspired by sir's lectures and with the support of mataji and BVC members like venkat pr, vipul pr, Srikant pr, Sudheer pr, mehar pr, sarvatma pr, the journey in IITK was sweet. He came to IIT with an aspiration of becoming IAS officer, but this journey of 1.5 years in BVC changed his life and helped him to take right decision about future. After that he served in BGIS gurukul for 5 years as a chemistry teacher and did some ashram services also. In 2020, he went to ISKCON Dehradun and right now serving there as Brahmachari.",
     id: "",
     gradyr: 2015
-}, {
+},*/ {
     name: "Jaideep Shingari",
     pic: "images/Alumini/jaideeppr-.jpg",
     who1: "Team Lead",
@@ -532,7 +532,7 @@ arrPresent.push({
     about: "Yash D. Jaiswal did his B.Tech - M.Tech (Dual Degree) in the Department of Aerospace Engineering at IIT Kanpur from 2009-14. During the first year of his undergraduate days, he got connected with BVC IITK and Professor Laxmidhar Behera and got inspired by Krishna Consciousness. Thereafter, during his stay at IIT Kanpur, he used to actively participate in multiple festivals and activities conducted by the club. He feels fortunate to get connected to the teachings of Bhagavad Gita in the loving care of Professor Laxmidhar Behera. He is also very indebted to the devotees for their association, and Professor Laxmidhar Behera for lectures and teaching on Bhagwad Gita, Shrimad Bhagwatam, and for motivating us in Krishna Consciousness.",
     id: "",
     gradyr: 2014
-},{
+},/*{
     name: "Keshav Verma ",
     pic: "images/Alumini/keshav verma.jpg",
     who1: "Full time Preacher",
@@ -550,7 +550,7 @@ arrPresent.push({
     about: "Shobhit Sinha aka Shubhkrishna Dasa did his btech in mechanical  engineering from iit kanpur in 2003-07. He worked in NTPC for six months and then joined iskcon vrindavan as a full time volunteer. Various services  he engaged in was HOD of goshala  and also preaching the message of bhagvad gita and bhagvatam. ",
     id: "",
     gradyr: 2007
-},{
+},*/{
     name: "Praful Anand",
     pic: "images/Alumini/praful_anand.jpg",
     who1: "Senior ML Engineer",
@@ -577,7 +577,7 @@ arrPresent.push({
     about: "Chandan Garg did his B-Tech majoring in Civil engineering from IIT Kanpur and later graduated from Columbia University with masters in Statistics. He is currently working as a machine learning engineer with Adobe. He got connected with BVC during the second year of his undergraduate, inspired by the preaching programs by prof. Laxmidhar Behera and student devotees of BVC. He is trying to practice Krishna consciousness by chanting the mahamantra and reading Srila Prabhupada books.",
     id: "",
     gradyr: 2016
-},{
+},/*{
     name: "Mayank Singh",
     pic: "images/Alumini/mayanksinghff.jpeg",
     who1: "Full TIme Preacher",
@@ -586,7 +586,7 @@ arrPresent.push({
     about: "Mayank Singh aka Madhusudan Mukund Das joined sir's Sanga in Feb 2012. He joined ISKCON immediately after he completed MBA from IITK. He served ISKCON Gurukula for 5 years till 2018. But after he joined ISKCON Dehradun yatra. From September 2020 onwards, he was awarded service for ISKCON Ranchi Yatra. He is also Coordinator of LGLG,  online initiative run under sir's guidance.  ",
     id: "",
     gradyr: 2014
-},{
+},*/{
     name: "Karthik Murthy",
     pic: "images/Alumini/Karthik Murthy.jpeg",
     who1: "Ph.D Student.",
@@ -748,7 +748,7 @@ arrPresent.push({
     about: "He enjoyed the association of BVC team members,  especially Dr. Laxmidhar Behera's realizations in spiritual subjects during M.Tech. in Industrial and Management Engineering from 2016-18.",
     id: "",
     gradyr: 2018
-},{
+},/*{
     name: "Kalpavriksha Das",
     pic: "images/Alumini/kalpvavrikshadas---.jpg",
     who1: "Full Time Preacher",
@@ -757,7 +757,7 @@ arrPresent.push({
     about: "Kalpavriksha Das aka Krishnan Annadhurai did his b.tech in civil engg from Dr M.G.R. education al research institute , chennai. Then he came to do M. Tech in Geotechnical Engineering in IIT Kanpur. There He got introduced to Krishna Consciousness by prof Laxmidhar Behera through weekly Saturday program. It opened the doors for understanding Indian spirituality in such detailed and convincing manner.  Regular discourse on Bhagvad Gita and other deeper subjects were taken their. He got a new insight in to Indian Spirituality. For the past ten years he is actively participating in preaching the Vedic Knowledge to various people in Noida",
     id: "",
     gradyr: 2011
-},{
+},*/{
     name: "Vishnu Raj Shukla",
     pic: "images/Alumini/vishnuraj_shukla.jpg",
     who1: "Ph. D. Student",
@@ -802,6 +802,60 @@ arrPresent.push({
     about: "Susovan Mandal did his M.Sc. in chemistry from University of Calcutta in the year 2006. He then pursuede Ph.D. in Chemistry during 2007-13. He is currently an assistant professor in govt. general degree college in West Benga. He experienced a good spiritual association at BVC with Sir & great devotees.",
     id: "",
     gradyr: 2013
+},{
+    name: "Basanta Rajbongshi",
+    pic: "images/Alumini/basanta kumar reduced.jpg",
+    who1: "Assistant Professor",
+    who2: "Cotton University, Guwahati",
+    who3: "Ph.D, Chemistry (2005-2012)",
+    about: "Dr. Basanta Kumar Rajbongshi did his M.Sc. in Chemistry from Gauhati University, Guwahati in 2005 and came to IIT Kanpur for his doctoral studies. He is currently an Assistant Professor in the department of Chemistry, Cotton University, Guwahati, Assam. In 2006 he came to the association of the devotees of the Bhaktivedanta Club and started attending the Bhagavad Gita classes. He actively volunteered in the Janmashtami programmes any many other spiritual programmes. He is still carrying that inspiration and enthusiasm. ",
+    id: "",
+    gradyr: 2012
+},{
+    name: "Dr. Sunil Agrawal",
+    pic: "images/Alumini/anmol_awasthi.jpg",
+    who1: "Associate Professor",
+    who2: "IIITDM Jabalpur",
+    who3: "Ph.D. IME, (2001-2006)",
+    about: "Dr. Sunil Agrawal did his B.E. from Department of Production and Industrial Engineering at Rajasthan Technical University, Kota, Rajasthan (1995-1999), M.E. from BITS Pilani, Rajasthan (2000-2001) and Ph.D. From Industrial and Management Engineering Department from IIT Kanpur, Uttar Pradesh (2001-2008). He joined Indian Institute of Information Technology, Design and Manufacturing, Jabalpur, Madhya Pradesh as assistant professor in the Mechanical Engineering Department in the year 2006. He got connected to the teachings of Bhagavad during the Ph.D. program at IIT Kanpur in the year 2003. Since then he is practicing the learning of spiritual science from various authorities in the area.",
+    id: "",
+    gradyr: 2008
+},{
+    name: "Lakshya Gangwar",
+    pic: "images/Alumini/lakshaygangwar_reduced.jpg",
+    who1: "Ph.D. Student ",
+    who2: "ME , University of Minnesota",
+    who3: "B.Tech ME (2014-18)",
+    about: "Lakshya Gangwar did his Bachelors of Technology from 2014-18 at IIT Kanpur in dept. of ME. Later he started to pursue a PhD in ME at University of Minnesota, USA and is working in area of cryopreservation and biomedical engg. at National Science Foundation (NSF) ERC ATP-Bio. He got introduced to amazing Bhaktivedanta Club in fall of 2014 around Aug when BVC was organizing a spiritual quiz for promotion of SriKrishna Janamashtami Celebration in IITK. To be precise, he can recall when first time he saw a poster in Lecture complex for Janamashtami event and became excited to know that there exists a pious and spiritual community like BVC in more modern (and western based) educational institute like IITK. Later he recall that he was made in touch to Vinayak Goyal for helping in painting and art decorations for Janamashtami event through Saurav Prakash who later connected him to BVC and its lovely devotee members. He lastly says that the memories and impact on his life of BVC IITK are far more than to describe here in words but he is always grateful to Krishna for providing him a divine experience of love & devotion and blessed to come across Prof. Laxmidhar Behera and BVC IITK.",
+    id: "",
+    gradyr: 2018
+},{
+    name: "Shashi Shankar",
+    pic: "images/Alumini/sashi_shankar_reduced.jpg",
+    who1: " Vice President",
+    who2: "HDFC Bank",
+    who3: "B. Tech (2000-04)",
+    about: "Shashi Shankar completed his B Tech course in Mechanical Engineering from IIT Kanpur in 2004. He came in contact with Dr. Leela Purushottam Prabhu during engineering studies through a common devotee friend and was inspired by Prabhuji's teachings of Bhakti yoga. After passing out of the college, he continued practicing devotional servicing in the association of local devotees wherever he went. Right now, he is settled in Mumbai since 2009 and contributing to congregational preaching services.",
+    id: "",
+    gradyr: 2004
+},{
+    name: "Gaurav Kumar Mathur",
+    pic: "images/Alumini/Gaurav_Mathur__.jpg",
+    who1: "Ph.D. Student",
+    who2: "IIT Patna",
+    who3: "MTech, ES (2018-2020)",
+    about: "He completed his BTech from government Engineering college, Ambedkar Nagar, UP. Later, he joined IIT Kanpur for MTech from department of Earth Sciences. Currently, he is pursuing PhD in Department of Civil and Environmental Engineering, IIT Patna. His life’s biggest enjoyable moments started when he joined HG Laxmidhar Behera in 664 IIT Kanpur. From there he is trying to follow Behera sir’s instructions. Please bless more.",
+    id: "",
+    gradyr: 2020
+},{
+    name: "Hitendra Chouhan",
+    pic: "images/Alumini/HitendraChouhan.jpg",
+    who1: "Scientific Officer",
+    who2: "RRCAT Indore",
+    who3: "MTech, CSE (2006-08)",
+    about: "Hitendra Chouhan did his BE in Computer Science & Engineering from RGPV, Bhopal. Later, he came to IIT Kanpur for MTech in Computer Science & Engineering. During his stay at IITK, he got connected to Bhakti Vedant Club (BVC) and learned teaching of Lord Chaitanya Mahaprabhu & about Hare Krishna Movement. Now, he is in Hare Krishna Movement since 2007.",
+    id: "",
+    gradyr: 2008
 });
 
 
