@@ -866,10 +866,10 @@ arrPresent.push({
     id: "",
     gradyr: 2020
 },{
-    name: "Sreenivasulu Chadalavada",
+    name: "Sreenivasulu",
     pic: "images/Alumini/Sreendcci - Shyamananda Krishna Das.jpg",
     who1: "Faculty of Engineering",
-    who2: "University of Southern Queensland",
+    who2: "USQ, Australia",
     who3: "M.Tech (2003-2005)",
     about: "Dr Shhyamananda Krishna Das did his M.Tech in the depart of Civil Engineering at IIT Kanpur from 2003-2005 and completed his PhD from University of South Australia from 2006-2008. During his studies at IIT Kanpur, he got connected with the teachings of Bhagavad Gita from Prof Laximdhar Behera. He is practicing and teaching Bhagavad Gita for the last 16 years.",
     id: "",
