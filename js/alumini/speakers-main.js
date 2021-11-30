@@ -813,7 +813,7 @@ arrPresent.push({
     gradyr: 2012
 },{
     name: "Dr. Sunil Agrawal",
-    pic: "images/Alumini/anmol_awasthi.jpg",
+    pic: "images/Alumini/sunilagarwal.jpeg",
     who1: "Associate Professor",
     who2: "IIITDM Jabalpur",
     who3: "Ph.D. IME, (2001-2006)",
@@ -856,6 +856,24 @@ arrPresent.push({
     about: "Hitendra Chouhan did his BE in Computer Science & Engineering from RGPV, Bhopal. Later, he came to IIT Kanpur for MTech in Computer Science & Engineering. During his stay at IITK, he got connected to Bhakti Vedant Club (BVC) and learned teaching of Lord Chaitanya Mahaprabhu & about Hare Krishna Movement. Now, he is in Hare Krishna Movement since 2007.",
     id: "",
     gradyr: 2008
+},{
+    name: "Dr. Sandeep Kumar",
+    pic: "images/Alumini/Sandeep_Kumar_square.jpg",
+    who1: "Scientist E",
+    who2: "Deputy Director, DRDO Kanpur",
+    who3: "Ph.D. , Chemical Engineering ( 2009-20)",
+    about: "Dr. Sandeep Kumar did his BE from BIT Ranchi in 2002 and Mtech from IIT Delhi in 2004. He than came to Kanpur at DRDO lab as a scientist. He has completed his part time Ph.D in 2020 from chemical engineering department of IIT Kanpur. He is in devotee association since his graduation and this has helped him lot to understand the basic purpose of education and a strong character. Prof. Laxmidhar Behra's  personal life example and his dedication has moved him to take the teachings of Bhagavad Gita seriously. ",
+    id: "",
+    gradyr: 2020
+},{
+    name: "Sreenivasulu Chadalavada",
+    pic: "images/Alumini/Sreendcci - Shyamananda Krishna Das.jpg",
+    who1: "Faculty of Engineering",
+    who2: "University of Southern Queensland",
+    who3: "M.Tech (2003-2005)",
+    about: "Dr Shhyamananda Krishna Das did his M.Tech in the depart of Civil Engineering at IIT Kanpur from 2003-2005 and completed his PhD from University of South Australia from 2006-2008. During his studies at IIT Kanpur, he got connected with the teachings of Bhagavad Gita from Prof Laximdhar Behera. He is practicing and teaching Bhagavad Gita for the last 16 years.",
+    id: "",
+    gradyr: 2005
 });
 
 
