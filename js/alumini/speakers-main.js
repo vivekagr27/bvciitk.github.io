@@ -874,6 +874,15 @@ arrPresent.push({
     about: "Dr Shhyamananda Krishna Das did his M.Tech in the depart of Civil Engineering at IIT Kanpur from 2003-2005 and completed his PhD from University of South Australia from 2006-2008. During his studies at IIT Kanpur, he got connected with the teachings of Bhagavad Gita from Prof Laximdhar Behera. He is practicing and teaching Bhagavad Gita for the last 16 years.",
     id: "",
     gradyr: 2005
+},{
+    name: "Daevesh Singh",
+    pic: "images/Alumini/Daevesh Prabhu.jpeg",
+    who1: "PhD",
+    who2: "IIT Bombay",
+    who3: "Msc Mathematics (2016-2018)",
+    about: "Daevesh did his bachelor's in Mathematics from University of Delhi and later joined Indian Institute of Technology Kanpur for doing MSc in Mathematics. He his currently doing Phd at Indian Institute of Technology Bombay. He came in association of devotees at Bhaktivedanta Club in the first year of his MSc. Since then he is connected to the devotees.",
+    id: "",
+    gradyr: 2018
 });
 
 
