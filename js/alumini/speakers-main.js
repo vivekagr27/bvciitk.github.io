@@ -876,14 +876,23 @@ arrPresent.push({
     gradyr: 2005
 },{
     name: "Daevesh Singh",
-    pic: "images/Alumini/Daevesh Prabhu.jpeg",
-    who1: "PhD",
+    pic: "images/Alumini/Daevesh_Singh_prabhu.jpg",
+    who1: "Ph.D. Student",
     who2: "IIT Bombay",
     who3: "Msc Mathematics (2016-2018)",
     about: "Daevesh did his bachelor's in Mathematics from University of Delhi and later joined Indian Institute of Technology Kanpur for doing MSc in Mathematics. He his currently doing Phd at Indian Institute of Technology Bombay. He came in association of devotees at Bhaktivedanta Club in the first year of his MSc. Since then he is connected to the devotees.",
     id: "",
     gradyr: 2018
-});
+} /*,{
+    name: "Varun Pahwa",
+    pic: "images/Alumini/P_20200916_193815 - Vaishnavapriya Gauranga das.jpg",
+    who1: "Full Time Preacher",
+    who2: "ISKCON Chandigarh",
+    who3: "M.Tech (2010-2012)",
+    about: "Varun Pahwa aka Vaishnavapriya Gauranga das after completing his B.Tech (2006-2010)  from Thapar University, Patiala, arrived at IIT Kanpur in 2010 for pursuing M.tech in Biotechnology. There he came in touch with the members of Bhaktivedanta club and started appreciating the Vedic values and culture practiced by the club members. He then became an active member of the club for practicing oneself and also distributing the message of Bhagvad gita to others. After passing out he came to Chandigarh to spread this most valuable knowledge and experience which he imbibed at IIT Kanpur. He worked for couple of years in coaching like Akash Institute and taught these Vedic truths to the students. Then for deeper practice and propagation of this spiritual science he started serving in ISKCON Chandigarh as a Monk. He has been a successful practitioner and preacher in 11 years of his spiritual journey and has a vision to render more valuable services to the society at large.",
+    id: "",
+    gradyr: 2012
+}*/);
 
 
 function removeAllChildNodes(element) {
