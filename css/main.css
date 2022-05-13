@@ -1905,6 +1905,20 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     }
 }
 
+#videos{
+    margin: auto;
+    margin-bottom: 20px;
+}
+#video{
+    height: 495px;
+    width: 660px;
+    margin: auto;
+}
+.video-content{
+    height: 495px;
+    width: 660px;
+    margin: auto;
+}
 
 /* ------------------------------------------------------------------- 
  * responsive:
@@ -1917,6 +1931,20 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     }
     .home-content-tablecell h1 {
         font-size: 7rem;
+    }
+    #videos{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    #video{
+        height: 495px;
+        width: 660px;
+        margin: auto;
+    }
+    .video-content{
+        height: 495px;
+        width: 660px;
+        margin: auto;
     }
 }
 
@@ -1955,6 +1983,20 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
         top: 24px;
         right: 10px;
     }
+    #video{
+        height: 405px;
+        width: 540px;
+        margin: auto;
+    }
+    #videos{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .video-content{
+        height: 405px;
+        width: 540px;
+        margin: auto;
+    }
 }
 
 @media only screen and (max-width: 600px) {
@@ -1971,6 +2013,21 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     }
     .home-content-tablecell h1 {
         font-size: 4.2rem;
+    }
+
+    #video{
+        height: 360px;
+        width: 480px;
+        margin: auto;
+    }
+    #videos{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .video-content{
+        height: 360px;
+        width: 480px;
+        margin: auto;
     }
 }
 
@@ -1992,6 +2049,21 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     .home-social-list::before {
         height: 24px;
     }
+
+    #video{
+        height: 270px;
+        width: 360px;
+        margin: auto;
+    }
+    #videos{
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .video-content{
+        height: 270px;
+        width: 360px;
+        margin: auto;
+    }
 }
 
 @media only screen and (max-width: 400px) {
@@ -2007,6 +2079,21 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     }
     .home-content-tablecell h1 {
         font-size: 3.2rem;
+    }
+
+    #video{
+        height: 225px;
+        width: 300px;
+        margin: auto;
+    }
+    #videos{
+        margin: auto;
+        margin-bottom: 40px;
+    }
+    .video-content{
+        height: 225px;
+        width: 300px;
+        margin: auto;
     }
 }
 
@@ -2858,7 +2945,6 @@ html[data-useragent*="MSIE 10.0"] .scrolldown,
     background-color: white;
     /* background-image: url(../images/contact-bg-image.JPG); */
     background-image: url(../images/bg12.jpeg);
-    );
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
